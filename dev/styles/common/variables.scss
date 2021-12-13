@@ -1,0 +1,24 @@
+$mobile: 320px;
+$tablet: 768px;
+$desktop: 1024px;
+
+$mob-max: 'max-width: $tablet - 1';
+$mob-min: 'min-width: $mobile';
+$tab-max: 'max-width: $desktop - 1';
+$tab-min: 'min-width: $tablet';
+$desk-min: 'min-width: $desktop';
+
+$white: #ffffff;
+$red: #ff3918;
+$blue: #55acee;
+$grey-1: #49565e;
+$grey-2: #abb3c0;
+$dark-grey: #656d78;
+$light-grey: #8a9094;
+$black: #000000;
+
+$primary-color: $grey-1;
+$secondary-color: $grey-2;
+
+$primary-font: 'Open Sans', sans-serif;
+$secondary-font: 'Raleway', sans-serif;
